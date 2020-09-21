@@ -1,6 +1,4 @@
-student1 = 80.0
-student2 = 90.0
-student3 = 66.5
+student1, student2, student3 = 80.0, 90.0, 66.5
 
 def average(score1, score2, score3):
     total_score = score1 + score2 + score3
