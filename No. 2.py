@@ -5,6 +5,6 @@ def average(score1, score2, score3):
     average = total_score / 3
     print("Student scores:")
     print(score1, score2, score3, sep='\n')
-    print("Average " + str(average))
+    print("Average: " + str(average))
 
 average(student1, student2, student3)
