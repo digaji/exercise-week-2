@@ -1,6 +1,4 @@
-class1 = 32
-class2 = 45
-class3 = 51
+class1, class2, class3 = 32, 45, 51
 
 def grouped(students1, students2, students3):
     each_group1 = students1 // 5
